@@ -24,3 +24,7 @@ ServiceNow Flow Designer flows, tables, Catalog Items, notifications, and ACLs a
 7. Apply role-based access controls and run the tests in `07_testing_checklist.md`.
 
 The sample assumes field names listed in `01_table_fields.md`. Validate API/action labels against your ServiceNow release and instance configuration.
+documentation link:
+https://docs.google.com/document/d/1I1gke8SHtHYtn0ViAxZ7_cniMnb-eKHuebxDdovIpKo/edit?usp=sharing
+demo link:
+https://drive.google.com/file/d/1FP_jiAJBbXeVSqrzTTzBJcU9h4IadEhx/view?usp=sharing
